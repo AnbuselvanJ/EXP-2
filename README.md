@@ -1,4 +1,4 @@
-# EXP-2
+<img width="1048" height="830" alt="Screenshot 2025-10-23 153727" src="https://github.com/user-attachments/assets/33fd536b-a74a-4e95-97d9-f1b6ca300c83" /><img width="583" height="833" alt="Screenshot 2025-10-23 153252" src="https://github.com/user-attachments/assets/201b3220-31c9-4749-97a9-4ec498e11261" /># EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -48,16 +48,26 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
+<img width="1159" height="824" alt="Screenshot 2025-10-23 153238" src="https://github.com/user-attachments/assets/6c23155c-cd19-41c5-9a04-3456bc4a11de" />
+<img width="583" height="833" alt="Screenshot 2025-10-23 153252" src="https://github.com/user-attachments/assets/b77a2aea-bcde-4cad-9615-e2a8faa2c497" />
+<img width="608" height="831" alt="Screenshot 2025-10-23 153303" src="https://github.com/user-attachments/assets/e63ec603-13dc-43f5-998a-cf2046ca48f2" />
+<img width="562" height="831" alt="Screenshot 2025-10-23 153315" src="https://github.com/user-attachments/assets/49ff6e67-c35d-492a-9754-892b74244de1" />
 
-Tabulation for Load Test:
+Tabulation for Load Test:!
 
-Model graph:
-Calculation: 
+
+Model graph:<img width="616" height="824" alt="Screenshot 2025-10-23 153656" src="https://github.com/user-attachments/assets/c3a9a0c3-b1d7-4fda-ba61-b72eb69a5e0a" />
+<img width="634" height="834" alt="Screenshot 2025-10-23 153705" src="https://github.com/user-attachments/assets/cca0c676-aebe-4876-915d-aca327c1f52e" />
+
+
+Calculation: <img width="1048" height="830" alt="Screenshot 2025-10-23 153727" src="https://github.com/user-attachments/assets/b949ec63-2ab3-43e2-9cc3-c4f7a99142cc" />
+
 
 Open circuit characteristics
 
   
-Load Characteristics:
+Load Characteristics:<img width="962" height="822" alt="Screenshot 2025-10-23 153819" src="https://github.com/user-attachments/assets/020e6428-c042-4983-9a70-f180095f4531" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
