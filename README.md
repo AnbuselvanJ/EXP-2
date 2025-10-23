@@ -1,4 +1,4 @@
-<img width="1048" height="830" alt="Screenshot 2025-10-23 153727" src="https://github.com/user-attachments/assets/33fd536b-a74a-4e95-97d9-f1b6ca300c83" /><img width="583" height="833" alt="Screenshot 2025-10-23 153252" src="https://github.com/user-attachments/assets/201b3220-31c9-4749-97a9-4ec498e11261" /># EXP-2
+
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
